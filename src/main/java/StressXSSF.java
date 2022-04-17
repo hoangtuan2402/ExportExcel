@@ -20,7 +20,7 @@ import java.text.ParseException;
 import java.util.List;
 
 public class StressXSSF {
-    public static final int EMPLOYEE_COUNT = 200;
+    public static final int EMPLOYEE_COUNT = 100;
     public static final int DEPARTMENT_COUNT = 100;
     public static final int DEP_EMPLOYEE_COUNT = 500;
     public static Logger logger = LoggerFactory.getLogger(StressXSSF.class);
