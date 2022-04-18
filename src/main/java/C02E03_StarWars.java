@@ -476,7 +476,7 @@ public class C02E03_StarWars {
     public static void responsiveIText() throws IOException, InterruptedException {
         PageSize[] pageSizes = {
 //                null,
-                new PageSize(5384.0F, 5384.0F),
+                new PageSize(14000F, 1000F),
 //                new PageSize(760,PageSize.A4.getHeight()),
 //                new PageSize(PageSize.A5.getWidth(), PageSize.A4.getHeight())
         };
